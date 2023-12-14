@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from RustNet import RustNetApp
+from plugins.RustNet import RustNetApp
 
 def design():
     return """
