@@ -18,9 +18,14 @@
     - Jamming (Jamming all transmitted and received signals in the network) .
 ```
 
+> Install application requirements
+``` bash
+sudo pip install -r requirements.txt
+```
+
 > Run the app
 ``` bash
-python3 main.py
+sudo python3 main.py
 ```
 
 ### Community
