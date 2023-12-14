@@ -1,5 +1,5 @@
 ## RustNet
-> Gui app allow for you sniffing network requests, jamming network and more...
+> Gui app allow for you to manage your technology world .
 
 > Features
 ``` text
