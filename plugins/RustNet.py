@@ -10,8 +10,6 @@ import marshal
 
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
-import psutil
-import wifi
 from plugins.network.Jamming.jamming_page import JammingThread
 from plugins.network.Sniffing.sniffing_page import SniffThread
 from plugins.network.functions import interfaces_list, devices_list
