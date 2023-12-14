@@ -1,0 +1,8 @@
+scapy
+wifi
+psutil
+ipaddress 
+netifaces
+PyQt5
+urllib3
+socket
