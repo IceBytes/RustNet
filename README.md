@@ -3,7 +3,7 @@
 
 > Features
 ``` text
-- All sections in the appleication are free .
+- All sections in the application are free .
 - Main sections of the application : 
   - Malwares 
   - Web
