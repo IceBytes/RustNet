@@ -16,6 +16,7 @@
   - Network :
     - Sniffing (Spying on all requests that occur in the network) .
     - Jamming (Jamming all transmitted and received signals in the network) .
+```
 
 > Run the app
 ``` bash
